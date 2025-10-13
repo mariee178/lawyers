@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+body{
+    width: 1300px;
+    margin: auto;
+    font-family: 'Open Sans';
+font-style: normal;
+}
+.header{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    gap: 70px;
+}
+.aq{
+    background-color: #33836e;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+
+}
+
+.phone_number{
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+color: #140A32;
+}
+.search{
+    width: 427px;
+    border: none;
+    font-size: 16px;
+    background-color: #2f2b430a;
+    border-radius: 10px;
+    padding: 10px;
+}
+.contact_info{
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: rgba(47, 43, 67, 0.5);
+
+}
+.contact{
+display: flex;
+flex-direction: column;
+padding: 0px;
+gap: 5px;
+}
+.call{
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border: 1px solid rgba(47, 43, 67, 0.15);
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.menu{
+display: flex;
+flex-direction: row;
+gap: 50px;
+padding-top: 35px;
+align-items: center;
+}
+
+.telegram{
+box-sizing: border-box;
+display: flex;
+padding: 10px 20px;
+gap: 10px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 10px;
+}
+.other_all{
+display: flex;
+gap: 30px;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+}
+.first_two{
+display: flex;
+gap: 15px;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #140A32;
+}
+.vhod{
+display: flex;
+gap: 10px;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #140A32;
+}
+.glavnaya {
+gap: 10px;
+padding-top: 35px;
+line-height: 22px;
+color: rgba(47, 43, 67, 0.5);
+opacity: 50%;
+}
+
+.title {
+    padding-bottom: 30px;
+    display: flex;
+    gap: 210px;
+}
+.block{
+    display: block;
+}
+.title_title {
+    padding-top: 40px;
+font-size: 38px;
+line-height: 52px;
+color: #140A32;
+margin: 0;
+}
+.little_title {
+    padding-bottom: 30px;
+    margin: 0;
+line-height: 160%;
+color: #140A32;
+}
+.aqn{
+padding: 16px 36px 18px;
+background: #33836E;
+border-radius: 10px;
+border: none;
+font-size: 16px;
+color: #FFFFFF;
+}
+.aq_number {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-bottom: 30px;
+}
+.number2 {
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+color: #33836E;
+}
+.contact_info2 {
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+color: rgba(47, 43, 67, 0.5);
+}
+.why{
+    display: flex;
+    gap: 30px;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #140A32;
+}
+.chel{
+position: absolute;
+}
+.title_two {
+    padding-bottom: 30px;
+}
+.tit_twoo {
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #140A32;
+}
+.second_tit {
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #140A32;
+}
+.third_tit {
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #140A32;
+}
+.tit_three {
+font-weight: 700;
+font-size: 32px;
+color: #140A32;
+}
+.tit_three_1 {
+font-weight: 400;
+font-size: 16px;
+color: #140A32;
+}
+.kvadratiki{
+    display: flex;
+}
+.k1 {
+width: 240px;
+height: 140px;
+padding: 20px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+}
+
+.tel {
+font-weight: 700;
+font-size: 20px;
+color: #140A32;
+}
+.order {
+font-weight: 600;
+font-size: 16px;
+color: #33836E;
+}
+.k2 {
+width: 240px;
+height: 140px;
+padding: 20px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+}
+.tel_hot1 {
+    padding-bottom: 30px;
+}
+.k3 {
+width: 240px;
+height: 140px;
+padding: 20px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+}
+.k4 {
+width: 240px;
+height: 140px;
+padding: 20px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+}
+.kvadratiki{
+gap: 30px;
+}
+.image_40{
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+.zvonite {
+    display: flex;
+    width: 1220px;
+    height: 200px;
+background: #33836E;
+border-radius: 20px;
+margin-bottom: 60px;
+margin-top: 60px;
+gap: 0px;
+}
+.zvon_247 {
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+.call_we {
+font-weight: 600;
+font-size: 24px;
+color: #FFFFFF;
+
+}
+.phone_number3 {
+font-weight: 700;
+font-size: 42px;
+color: #FFFFFF;
+}
+.ludi {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+}
+.lawyer_64 {
+font-weight: 600;
+font-size: 18px;
+color: #FFFFFF;
+}
