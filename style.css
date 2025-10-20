@@ -242,6 +242,7 @@ border-radius: 20px;
 }
 .kvadratiki{
 gap: 30px;
+padding-top: 30px;
 }
 .image_40{
     padding-bottom: 80px;
@@ -255,12 +256,12 @@ background: #33836E;
 border-radius: 20px;
 margin-bottom: 60px;
 margin-top: 60px;
-gap: 0px;
-}
+align-items: center;}
 .zvon_247 {
 display: flex;
 flex-direction: column;
 gap: 10px;
+padding-right: 116px;
 }
 .call_we {
 font-weight: 600;
@@ -283,4 +284,83 @@ gap: 20px;
 font-weight: 600;
 font-size: 18px;
 color: #FFFFFF;
+}
+.woman{
+    padding-left: 36px;
+}
+.tit_four{
+font-weight: 700;
+font-size: 32px;
+color: #140A32;
+}
+.line1 {
+    display: flex;
+    padding-bottom: 20px;
+    gap: 20px;
+}
+.perviy {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 540px;
+}
+.vtoroy {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 540px;
+}
+.line2 {
+    display: flex;
+    gap: 20px;
+}
+.tretiy {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 540px;
+}
+.chetvertiy {
+align-items: center;
+padding: 30px;
+border: 1px solid rgba(47, 43, 67, 0.15);
+border-radius: 20px;
+width: 540px;
+}
+.eta_chasyt {
+    display: flex;
+}
+.allit{
+    display: block;
+}
+.title_five {
+    gap: 20px;
+}
+.tit_five {
+font-weight: 700;
+font-size: 32px;
+color: #140A32;
+}
+.tit_five_1 {
+font-weight: 400;
+font-size: 16px;
+color: #140A32;
+}
+.trii {
+    gap: 40px;
+}
+.three10 {
+}
+.x100 {
+font-weight: 700;
+font-size: 28px;
+color: #33836E;
+}
+.dela {
+font-weight: 400;
+font-size: 16px;
+color: #140A32;
 }
